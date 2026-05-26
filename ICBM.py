@@ -185,7 +185,7 @@ def main():
     st.title("Ballistic Missile Trajectory Simulator")
     st.caption(
         "RK4 integration · Multi-missile comparison · "
-        "Hopkinson-Cranz blast · Monte Carlo CEP · Streamlit dashboard"
+        "Hopkinson-Cranz blast"
     )
     st.sidebar.header("Configuration")
     n_missiles = st.sidebar.slider("Missiles to compare", 1, 4, 2)
