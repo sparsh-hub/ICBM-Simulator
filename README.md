@@ -26,7 +26,7 @@ Impact effects are calculated using:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/sparsh-hub/ballistic-simulator.git](https://github.com/sparsh-hub/ballistic-simulator.git)
-   cd ballistic-simulator```
+   cd ballistic-simulator
 
 2. **Install Dependencies:**
    ```bash
